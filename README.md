@@ -4,7 +4,7 @@
 ### *The all-in-one Discord Radio Bot – 24/7 music, multilingual & easy to use*  
 
 [![Bot Invite](https://img.shields.io/badge/Invite%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1313864117165228042&permissions=0&scope=bot%20applications.commands)
-[![Support Server](https://img.shields.io/badge/Support-Discord-blue?style=for-the-badge&logo=discord)](https://discord.gg/deinserver)
+[![Support Server](https://img.shields.io/badge/Support-Discord-blue?style=for-the-badge&logo=discord)]((https://discord.gg/x4dWVuzxdW))
 [![Top.gg](https://img.shields.io/badge/Top.gg%20Profile-FF3366?style=for-the-badge&logo=topdotgg&logoColor=white)](https://top.gg/bot/1313864117165228042)
 [![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#)
