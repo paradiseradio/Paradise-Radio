@@ -1,0 +1,42 @@
+name: 🐞 Bug melden
+description: Melde einen Fehler im Paradise ✘ Radio Bot
+title: "[BUG] Kurze Beschreibung"
+labels: ["bug"]
+body:
+  - type: input
+    id: beschreibung
+    attributes:
+      label: Fehlerbeschreibung
+      description: Was genau funktioniert nicht?
+      placeholder: Beispiel: Der /join-Befehl reagiert nicht mehr.
+    validations:
+      required: true
+
+  - type: textarea
+    id: schritte
+    attributes:
+      label: Schritte zum Reproduzieren
+      description: Wie kann man den Fehler nachstellen?
+      placeholder: 
+        1. Befehl /join ausführen  
+        2. Kein Sound / keine Reaktion  
+        3. Fehlermeldung im Chat
+    validations:
+      required: true
+
+  - type: dropdown
+    id: umgebung
+    attributes:
+      label: Umgebung
+      options:
+        - Discord Desktop
+        - Discord Web
+        - Discord Mobile
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Fehlermeldung oder Screenshot
+      description: Füge Log, Screenshot oder Textausgabe hinzu.
